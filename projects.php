@@ -22,9 +22,8 @@ if(!$result)
         <link href="css/animate.css" rel="stylesheet">
         <link href="vendor/swiper/css/swiper.min.css" rel="stylesheet" type="text/css"/>
         <link href="css/layout.min.css" rel="stylesheet" type="text/css"/>
-        <script src="vendor/jquery.min.js" type="text/javascript"></script>
-        <script src="vendor/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>            
-        <script src="js/portfolio.js"></script>
+        <script src="vendor/jquery.min.js"></script>
+        <script src="vendor/bootstrap/js/bootstrap.js"></script>      
     </head>
     <body id="body" data-spy="scroll" data-target=".header">
     <header class="header navbar-fixed-top">
